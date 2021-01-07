@@ -12,6 +12,3 @@ clock=Label(clockface,font="times 15 bold")
 clock.pack(fill="both",expand=1)
 clocktime()
 clockface.mainloop()
-
-
-
